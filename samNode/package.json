@@ -47,10 +47,10 @@
 		"node-jose": "~2.2.0",
 		"svg-captcha": "^1.4.0",
 		"qrcode": "^1.5.1",
-		"@aws-sdk/client-dynamodb": "^3.44.0",
-    	"@aws-sdk/client-s3": "^3.44.0",
-    	"@aws-sdk/client-sqs": "^3.44.0",
-    	"@aws-sdk/client-lambda": "^3.44.0",
+		"@aws-sdk/client-dynamodb": "^3.632.0",
+    	"@aws-sdk/client-s3": "^3.633.0",
+    	"@aws-sdk/client-sqs": "^3.632.0",
+    	"@aws-sdk/client-lambda": "^3.634.0",
 		"@aws-sdk/util-dynamodb": "^3.44.0"
 		
 	}
